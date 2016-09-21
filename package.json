@@ -1,0 +1,13 @@
+{
+    "name": "ChuckNorrisFactsScraper",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "hes0023",
+    "contributors": [],
+    "dependencies": {
+        "express" : "latest",
+        "request" : "latest",
+        "cheerio" : "latest",
+        "async"   : "latest"
+    }
+}
